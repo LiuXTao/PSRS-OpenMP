@@ -1,0 +1,4 @@
+﻿  trap.c
+d:\bingxingdata\串行代码\trap.c(41): warning C4013: “system”未定义；假设外部返回 int
+  bingxinghelloworld.vcxproj -> D:\vsCase\bingxinghelloworld\x64\Debug\bingxinghelloworld.exe
+  bingxinghelloworld.vcxproj -> D:\vsCase\bingxinghelloworld\x64\Debug\bingxinghelloworld.pdb (Full PDB)
